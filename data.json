@@ -1,0 +1,90 @@
+[
+  {
+    "id": "8c0d6993-9a40-4b67-993f-8b40cbef0cff",
+    "title": "Brunch",
+    "amount": 250,
+    "category": "Meals",
+    "date": 1793586818597,
+    "note": "Birthday party"
+  },
+  {
+    "id": "215d9058-5be4-4fed-b92f-cbef568d2124",
+    "title": "Movie",
+    "amount": 300,
+    "category": "Entertainment",
+    "date": 1793586818597,
+    "note": "-"
+  },
+  {
+    "id": "26da1b7f-bdb6-4229-ae2b-0ed346811841",
+    "title": "Movie",
+    "amount": 300,
+    "category": "Entertainment",
+    "date": 1793586818597,
+    "note": "-"
+  },
+  {
+    "id": "2b79f28e-e682-4217-acd1-5f16bdcb5ce2",
+    "title": "Lunch",
+    "amount": 250,
+    "category": "Meals",
+    "date": 1793586859154,
+    "note": "Birthday party"
+  },
+  {
+    "id": "743a7ff6-2cad-435a-b22e-cfc446c63fba",
+    "title": "Petrol",
+    "amount": 500,
+    "category": "Travel",
+    "date": 1793586859154,
+    "note": "-"
+  },
+  {
+    "id": "b712cc26-f995-463b-8f1f-652b616c8221",
+    "title": "Movie",
+    "amount": 300,
+    "category": "Entertainment",
+    "date": 1793586859154,
+    "note": "-"
+  },
+  {
+    "id": "02bdea94-e3ea-4a06-9063-f09926cbf361",
+    "title": "Movie",
+    "amount": 300,
+    "category": "Entertainment",
+    "date": 1793586859154,
+    "note": "-"
+  },
+  {
+    "id": "fdf5247d-7eec-4cfb-982b-db6616c9defc",
+    "title": "Lunch",
+    "amount": 250,
+    "category": "Meals",
+    "date": 1793671321670,
+    "note": "Birthday party"
+  },
+  {
+    "id": "564e742e-b357-44ed-b532-4d437d4aaa80",
+    "title": "Petrol",
+    "amount": 500,
+    "category": "Travel",
+    "date": 1793671321670,
+    "note": "-"
+  },
+  {
+    "id": "d9b0662e-6da0-440d-8ecf-d1c809a7c89a",
+    "title": "Movie",
+    "amount": 300,
+    "category": "Entertainment",
+    "date": 1793671321670,
+    "note": "-"
+  },
+  {
+    "id": "2f6f1feb-e982-474e-879f-e335f848387c",
+    "title": "Movie",
+    "amount": 300,
+    "category": "Entertainment",
+    "date": 1793671321670,
+    "note": "-"
+  }
+]
